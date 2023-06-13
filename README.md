@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moamen Zakaria AbdelRaouf</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **more about web technologies**
 
-- 👨‍💻 All of my projects are available at [https://moamenzak.netlify.app](https://moamenzak.netlify.app)
 
-- 💬 Ask me about **React, Angular**
 
 - 📫 How to reach me **moamen_zakaria@yahoo.com**
 
