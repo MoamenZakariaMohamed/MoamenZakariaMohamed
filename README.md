@@ -15,10 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moamenzakariamohamed&show_icons=true&locale=en&layout=compact" alt="moamenzakariamohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moamenzakariamohamed&show_icons=true&locale=en" alt="moamenzakariamohamed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moamenzakariamohamed&show_icons=true&locale=en&theme=radical" alt="moamenzakariamohamed" /></p>
 
 <!---
 MoamenZakariaMohamed/MoamenZakariaMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
