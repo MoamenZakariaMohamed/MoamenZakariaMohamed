@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moamenzakariamohamed&show_icons=true&locale=en&layout=compac&theme=transparent&theme=blue_navy" alt="moamenzakariamohamed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moamenzakariamohamed&show_icons=true&locale=en&theme=blue_navy" alt="moamenzakariamohamed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moamenzakariamohamed&show_icons=true&locale=en&theme=gruvbox" alt="moamenzakariamohamed" /></p>
 
 <!---
 MoamenZakariaMohamed/MoamenZakariaMohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
